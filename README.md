@@ -1,7 +1,7 @@
 # airbnb-clone-project (alx-listing-app)
 
 <h1>
-  Welcome to the ALX Listing App Project✨🏠
+  Welcome to the ALX Listing App Project✨
 </h1>
 
 <section>
