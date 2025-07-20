@@ -151,7 +151,7 @@
   consistency and usability across the interface. Understanding these elements early allows <br />
   developers and designers to align on expectations, avoid miscommunication, and <br />
   streamline the development process. It also helps in evaluating whether the design meets <br />
-  accesibility standards, aligns with brand identity, and provides an intuitive user <br />
+  Accessibility standards, aligns with brand identity , and provide an intuitive user <br />
   experience. Ultimately, recognizing design properties in a mockup lays the foundation for <br />
   building a cohesive, functional, and visually applealing product.
 </p>
@@ -289,3 +289,6 @@
     </ol>
   </div>
 </section>
+
+## Author 
+- Clearence Muluvhu
